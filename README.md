@@ -17,6 +17,8 @@ Group 21482_ 6
 
 -Ashley Skaggs
 ## Data Model
+![7ab846dadefd44b6b43f2a3b6b4a9f21](https://user-images.githubusercontent.com/128408107/228365560-0e42d841-0b02-4c29-a8db-56a5eaabb5d6.jpeg)
+
 ## Data Dictionary
 
 Table: AIRCRAFT
