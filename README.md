@@ -22,14 +22,14 @@ Group 21482_ 6
 
 ## Data Dictionary
 
-Table: AIRCRAFT
+**Table: AIRCRAFT**
 | Column Name     | Description                                        | Data Type | Size | Format | Key? |
 | --------------- | -------------------------------------------------- | --------- | ---- | ------ | ---- |
 | aircraftID      | Unique sequential number identifying each aircraft | INT       |      |        | PK   |
 | aircraftType    | Type of aircraft                                   | Text      | 45   |        |      |
 | seatingCapacity | Indicates the number of seats in the aircraft      | Text      | 45   |        |      |
 
-Table: AIRLINE
+**Table: AIRLINE**
 | Column Name | Description                           | Data Type | Size | Format | Key? |
 | ----------- | ------------------------------------- | --------- | ---- | ------ | ---- |
 | airlineID   | Unique number identifying the airline | INT       |      |        | PK   |
@@ -37,7 +37,7 @@ Table: AIRLINE
 | websiteURL  | The airline’s website                 | Text      | 45   |        |      |
 | logo        | The airline’s logo                    | Text      | 45   |        |      |
 
-Table: AIRPORT
+**Table: AIRPORT**
 | Column Name | Description                                 | Data Type | Size | Format | Key? |
 | ----------- | ------------------------------------------- | --------- | ---- | ------ | ---- |
 | airportID   | Unique number identifying the airport       | INT       |      |        | PK   |
@@ -46,7 +46,7 @@ Table: AIRPORT
 | state       | The state in which the airport is located   | Text      | 45   |        |      |
 | country     | The country is which the airport is located | Text      | 45   |        |      |
 
-Table: CREW
+**Table: CREW**
 | Column Name       | Description                                           | Data Type | Size | Format | Key?          |
 | ----------------- | ----------------------------------------------------- | --------- | ---- | ------ | ------------- |
 | crewMemberID      | Unique sequential number identifying each crew member | INT       |      |        | PK            |
@@ -56,7 +56,7 @@ Table: CREW
 | crewHomeCountry   | The crew member’s home country                        | Text      | 45   |        |               |
 | Crew_crewMemberID | Indicates                                             | INT      |      |        | FK(ref. CREW) |
 
-Table: FLIGHT
+**Table: FLIGHT**
 | Column Name             | Description                                      | Data Type | Size | Format | Key?             |
 | ----------------------- | ------------------------------------------------ | --------- | ---- | ------ | ---------------- |
 | flightID                | Unique sequential number identifying each flight | INT       |      |        | PK               |
@@ -65,7 +65,7 @@ Table: FLIGHT
 | Airport_airportIDdepart |                                                  | INT       |      |        | FK(ref. AIRPORT) |
 | Airport_airportIDarrive |                                                  | INT       |      |        | FK(ref.AIRPORT)  |
 
-Table: LUGGAGE
+**Table: LUGGAGE**
 | Column Name           | Description                                   | Data Type | Size | Format | Key?              |
 | --------------------- | --------------------------------------------- | --------- | ---- | ------ | ----------------- |
 | luggageID             | Unique sequential number identifying each bag | INT       |      |        | PK                |
@@ -74,7 +74,7 @@ Table: LUGGAGE
 | Trip_tripID           |                                               | INT       |      |        | FK(ref.TRIP)      |
 | Passenger_passengerID |                                               | INT       |      |        | FK(ref.PASSENGER) |
 
-Table: Passenger
+**Table: Passenger**
 | Column Name  | Description                                         | Data Type | Size | Format | Key?          |
 | ------------ | --------------------------------------------------- | --------- | ---- | ------ | ------------- |
 | passengerID  | Unique sequential number identifying each passenger | INT       |      |        | PK            |
@@ -87,19 +87,19 @@ Table: Passenger
 | country      | The country in which the passenger resides          | Text      | 45   |        |               |
 | Trip_tripID  | Indicates the trip the passenger is taking          | INT       |      |        | FK(ref. TRIP) |
 
-Table: SEAT 
+**Table: SEAT**
 | Column Name | Description                        | Data Type | Size | Format | Key?          |
 | ----------- | ---------------------------------- | --------- | ---- | ------ | ------------- |
 | seatNumber  | Unique number identifying the seat | INT       |      |        | PK            |
 | Trip_tripID |                                    | INT       |      |        | FK(ref. TRIP) |
 
-Table: SEAT_HAS_PASSENGER
+**Table: SEAT_HAS_PASSENGER**
 | Column Name           | Description | Data Type | Size | Format | Key?              |
 | --------------------- | ----------- | --------- | ---- | ------ | ----------------- |
 | Seat_seatNumber       |             | INT       |      |        | FK(ref.SEAT)      |
 | Passenger_passengerID |             | INT       |      |        | FK(ref.PASSENGER) |
 
-Table: TRIP 
+**Table: TRIP** 
 | Column Name         | Description                                   | Data Type | Size | Format     | Key?              |
 | ------------------- | --------------------------------------------- | --------- | ---- | ---------- | ----------------- |
 | tripID              | Unique sequential number identifying the trip | INT       |      |            | PK                |
@@ -109,7 +109,7 @@ Table: TRIP
 | Flight_flightID     |                                               | INT       |      |            | FK(ref. FLIGHT)   |
 | Aircraft_aircraftID |                                               | INT       |      |            | FK(ref. AIRCRAFT) |
 
-Table: TRIP_HAS_CREW
+**Table: TRIP_HAS_CREW**
 | Column Name       | Description | Data Type | Size | Format | Key?          |
 | ----------------- | ----------- | --------- | ---- | ------ | ------------- |
 | Trip_tripID       |             | INT       |      |        | FK(ref.TRIP)  |
