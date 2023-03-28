@@ -113,3 +113,9 @@ Table: TRIP_HAS_CREW
 | ----------------- | ----------- | --------- | ---- | ------ | ------------- |
 | Trip_tripID       |             | INT       |      |        | FK(ref.TRIP)  |
 | Crew_crewMemberID |             | INT       |      |        | FK(ref. CREW) |
+
+#Queries
+
+#Query Matrix
+
+#Database Information
