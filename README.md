@@ -15,7 +15,7 @@ Group 21482_ 6
 
 Simran Simran
 
--Ashley Skaggs
+[Ashley Skaggs](https://github.com/skaggsashley1/MIST4610_Project)
 
 ## Data Model
 ![project data model  73](https://user-images.githubusercontent.com/128408107/228953445-a43ebdff-0630-4f7c-a080-b53fe4ba4204.jpg)
