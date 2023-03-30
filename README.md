@@ -124,12 +124,36 @@ Q1 - Write a query to list airports from most busy to least busy and the total n
 Description:
 
 Q2 - Write a query to list the number of passengers from each country (if at least one citizen was present) who flew from Hartsfield-Jackson to John F. Kennedy <br />
+
 <img width="659" alt="Screenshot 2023-03-30 at 5 14 02 PM" src="https://user-images.githubusercontent.com/128408107/228966024-2797ede2-7548-4afc-8c78-ab015dc60220.png"> <br />
+
 Description:
 
 Q3 - list out the names of supervisors and the crew members they supervised on if the number they supervise is greater than 3 <br />
+
 <img width="710" alt="Screenshot 2023-03-30 at 5 15 29 PM" src="https://user-images.githubusercontent.com/128408107/228966243-015a39ba-4808-4340-83e4-8e1de739ccef.png"> <br />
+
 Description:
+
+Q4 - Display the passenger ID, first name, last name, and luggage weight for those passengers whose luggage weighs more than the average luggage weight <br />      
+
+<img width="573" alt="Screenshot 2023-03-30 at 6 08 51 PM" src="https://user-images.githubusercontent.com/128408107/228974924-28f26a38-23d6-4c17-951f-e975eefa33d1.png"> <br />
+
+Description: 
+
+Q5- Display the percentage of Chinese passengers on each trip <br />
+
+<img width="851" alt="Screenshot 2023-03-30 at 6 12 54 PM" src="https://user-images.githubusercontent.com/128408107/228975463-3c2747ce-3be6-44c9-8e0f-bd492362d406.png"> <br />
+
+Description:
+
+Q6 -  Find the names of all passengers who have at least one luggage item with weight greater than the average weight of all luggage items for their trips <br />
+
+<img width="563" alt="Screenshot 2023-03-30 at 6 16 02 PM" src="https://user-images.githubusercontent.com/128408107/228975980-e6dd24c8-9536-4107-8691-446343069567.png">
+<img width="183" alt="Screenshot 2023-03-30 at 6 14 56 PM" src="https://user-images.githubusercontent.com/128408107/228975845-bb203441-c359-4939-85ea-94d379b5773b.png"> <br />
+
+Description:
+
 
 ## Query Matrix
 |                       | Q1 | Q2 | Q3 | Q4 | Q5 | Q6 | Q7 | Q8 | Q9 | Q10 |
