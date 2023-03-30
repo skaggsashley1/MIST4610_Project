@@ -165,21 +165,21 @@ Description:
 
 <img width="598" alt="Screenshot 2023-03-30 at 6 18 35 PM" src="https://user-images.githubusercontent.com/128408107/228976292-c674b59b-b910-4501-a674-736390aced29.png"> <br />
 
-**Justification**: A manager may want to know how many flights an aircraft has taken to make sure it gets the right maintenance checks and is in good working condition. The average amount of flights an aircraft takes is about 35,000, so a manager would want to retire an aircraft once that number is passed. <br />
+**Justification**:  A manager may want to know how many flights an aircraft has taken to make sure it gets the right maintenance checks and is in good working condition. The average amount of flights an aircraft takes is about 35,000, so a manager would want to retire an aircraft once that number is passed. Past 35,000 flights the metal on a plane can decay, which is unsafe for both crew and passengers. <br />
 
 **Query 8:** <br />
 **Description-** Aircrafts that have a seating capcacity that is larger than the average seating capacity <br />
 
 <img width="629" alt="Screenshot 2023-03-30 at 6 19 48 PM" src="https://user-images.githubusercontent.com/128408107/228976457-9d4d184b-bf57-40b6-9f05-546276660348.png"> <br />
 
-**Justification:** A manager may want to reserve the larger aircrafts for more popular flight routes, such as international flights. Using a larger aircraft on a short unpopular flight would not me cost/time effective.
+**Justification:** A manager may want to reserve the larger aircrafts for more popular flight routes, such as international flights. Using a larger aircraft on a short unpopular flight would not me cost/time effective. Knowing which flights have an above average seating capacity would also help a manager assign them to flights that are frequently overbooked to improve customer relations.
 
 **Query 9:** <br />
-**Description-** Customers names who’s luggage were not given a description <br />
+**Description-** Write a query to lis customers names who’s luggage were not given a description. <br />
 
 <img width="670" alt="Screenshot 2023-03-30 at 6 21 14 PM" src="https://user-images.githubusercontent.com/128408107/228976656-fa1eb91a-f450-4075-bba0-d33e8d8bdf71.png"> <br />
 
-**Justification:** When a customer reaches out about lost luggage, a manager may want to see if that passenger's luggage did not have a description and add one if the customer is able to provide a description.
+**Justification:** When a customer reaches out about lost luggage, a manager may want to see if that passenger's luggage did not have a description and add one if the customer is able to provide a description. An airline would be able to more easily find lost luggage if there is a description attached to it.
 
 **Query 10:** <br />
 **Description-**
