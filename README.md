@@ -9,11 +9,11 @@ Group 21482_ 6
 
 -Aaron Fritchley
 
--Mason Layfield
+[Mason Layfield] (MasontLayfield/MIST4610-MySQL-Database-Project)
 
 -Alexandra Shalikashvili
 
--Simran Simran
+Simran Simran
 
 -Ashley Skaggs
 
@@ -118,19 +118,5 @@ Group 21482_ 6
 ## Queries
 
 ## Query Matrix
-|                                     | Q1 | Q2 | Q3 | Q4 | Q5 | Q6 | Q7 | Q8 | Q9 | Q10 |
-| ----------------------------------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --- |
-| Multiple table join                 | X  | X  |    |    |    | x  |    |    | x  |     |
-| subquery                            |    |    |    | X  |    | x  |    |    | x  |     |
-| Correlated subquery                 |    |    |    |    |    | x  |    |    |    |     |
-| GROUP BY                            | X  |    |    |    | X  |    |    |    |    |     |
-| GROUP BY with HAVING                |    |    | X  |    |    |    |    |    |    |     |
-| Multi condition WHERE               |    | X  |    |    |    | x  |    |    |    |     |
-| Built-in function
 
-(AVG(), COUNT()) |    | X  |    | X  | X  | x  |    |    |    |     |
-| REGEXP                              |    |    |    |    |    |    | X  |    |    |     |
-| ROUND                               |    |    |    |    | X  |    |    |    |    |     |
-| CONCAT                              |    |    |    |    | X  |    |    |    |    |     |
-| NOT EXISTS                          |    |    |    |    |    |    |    |    | x  |     |
 ## Database Information
