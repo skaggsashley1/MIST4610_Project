@@ -154,6 +154,25 @@ Q6 -  Find the names of all passengers who have at least one luggage item with w
 
 Description:
 
+Q7 - Lists the aircraft ID and number of trips taken for each Boeing aircraft <br />
+
+<img width="598" alt="Screenshot 2023-03-30 at 6 18 35 PM" src="https://user-images.githubusercontent.com/128408107/228976292-c674b59b-b910-4501-a674-736390aced29.png"> <br />
+
+Description:
+
+Q8- Aircrafts that have a seating capcacity that is larger than the average seating capacity <br />
+
+<img width="629" alt="Screenshot 2023-03-30 at 6 19 48 PM" src="https://user-images.githubusercontent.com/128408107/228976457-9d4d184b-bf57-40b6-9f05-546276660348.png"> <br />
+
+Description:
+
+Q9 - Customers names who’s luggage were not given a description <br />
+
+<img width="670" alt="Screenshot 2023-03-30 at 6 21 14 PM" src="https://user-images.githubusercontent.com/128408107/228976656-fa1eb91a-f450-4075-bba0-d33e8d8bdf71.png"> <br />
+
+Description:
+
+Q10-
 
 ## Query Matrix
 |                       | Q1 | Q2 | Q3 | Q4 | Q5 | Q6 | Q7 | Q8 | Q9 | Q10 |
