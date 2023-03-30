@@ -131,4 +131,6 @@ Simran Simran
 | ROUND                 |    |    |    |    | X  |    |    |    |    |     |
 | CONCAT                |    |    |    |    | X  |    |    |    |    |     |
 | NOT EXISTS            |    |    |    |    |    |    |    |    | X  |     |
+
 ## Database Information
+Our queries are stored as Procedures in the ns_21482_6 server in the format TP_Qx.
