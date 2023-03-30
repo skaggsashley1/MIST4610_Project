@@ -117,63 +117,72 @@ Simran Simran
 
 ## Queries
 
-**Query 1** 
+**Query 1:** <br />
 **Description-** Write a query to list airports from most busy to least busy and the total number of departing passengers in each. <br />
 
 <img width="583" alt="Screenshot 2023-03-30 at 5 10 00 PM" src="https://user-images.githubusercontent.com/128408107/228965484-aae3f957-4d7f-47ea-8ce6-8b95f187e494.png"> <br />
 
 Description:
 
-Q2 - Write a query to list the number of passengers from each country (if at least one citizen was present) who flew from Hartsfield-Jackson to John F. Kennedy <br />
+**Query 2:** <br />
+**Description-** Write a query to list the number of passengers from each country (if at least one citizen was present) who flew from Hartsfield-Jackson to John F. Kennedy <br />
 
 <img width="659" alt="Screenshot 2023-03-30 at 5 14 02 PM" src="https://user-images.githubusercontent.com/128408107/228966024-2797ede2-7548-4afc-8c78-ab015dc60220.png"> <br />
 
 Description:
 
-Q3 - list out the names of supervisors and the crew members they supervised on if the number they supervise is greater than 3 <br />
+**Query 3:** <br />
+**Description-** list out the names of supervisors and the crew members they supervised on if the number they supervise is greater than 3 <br />
 
 <img width="710" alt="Screenshot 2023-03-30 at 5 15 29 PM" src="https://user-images.githubusercontent.com/128408107/228966243-015a39ba-4808-4340-83e4-8e1de739ccef.png"> <br />
 
 Description:
 
-Q4 - Display the passenger ID, first name, last name, and luggage weight for those passengers whose luggage weighs more than the average luggage weight <br />      
+**Query 4:** <br />
+**Description-** Display the passenger ID, first name, last name, and luggage weight for those passengers whose luggage weighs more than the average luggage weight <br />      
 
 <img width="573" alt="Screenshot 2023-03-30 at 6 08 51 PM" src="https://user-images.githubusercontent.com/128408107/228974924-28f26a38-23d6-4c17-951f-e975eefa33d1.png"> <br />
 
 Description: 
 
-Q5- Display the percentage of Chinese passengers on each trip <br />
+**Query 5:** <br />
+**Description-** Display the percentage of Chinese passengers on each trip <br />
 
 <img width="851" alt="Screenshot 2023-03-30 at 6 12 54 PM" src="https://user-images.githubusercontent.com/128408107/228975463-3c2747ce-3be6-44c9-8e0f-bd492362d406.png"> <br />
 
 Description:
 
-Q6 -  Find the names of all passengers who have at least one luggage item with weight greater than the average weight of all luggage items for their trips <br />
+**Query 6:** <br />
+**Description-** Find the names of all passengers who have at least one luggage item with weight greater than the average weight of all luggage items for their trips <br />
 
 <img width="563" alt="Screenshot 2023-03-30 at 6 16 02 PM" src="https://user-images.githubusercontent.com/128408107/228975980-e6dd24c8-9536-4107-8691-446343069567.png">
 <img width="183" alt="Screenshot 2023-03-30 at 6 14 56 PM" src="https://user-images.githubusercontent.com/128408107/228975845-bb203441-c359-4939-85ea-94d379b5773b.png"> <br />
 
 Description:
 
-Q7 - Lists the aircraft ID and number of trips taken for each Boeing aircraft <br />
+**Query 7:** <br />
+**Description-** Lists the aircraft ID and number of trips taken for each Boeing aircraft <br />
 
 <img width="598" alt="Screenshot 2023-03-30 at 6 18 35 PM" src="https://user-images.githubusercontent.com/128408107/228976292-c674b59b-b910-4501-a674-736390aced29.png"> <br />
 
 Description:
 
-Q8- Aircrafts that have a seating capcacity that is larger than the average seating capacity <br />
+**Query 8:** <br />
+**Description-** Aircrafts that have a seating capcacity that is larger than the average seating capacity <br />
 
 <img width="629" alt="Screenshot 2023-03-30 at 6 19 48 PM" src="https://user-images.githubusercontent.com/128408107/228976457-9d4d184b-bf57-40b6-9f05-546276660348.png"> <br />
 
 Description:
 
-Q9 - Customers names who’s luggage were not given a description <br />
+**Query 9:** <br />
+**Description-** Customers names who’s luggage were not given a description <br />
 
 <img width="670" alt="Screenshot 2023-03-30 at 6 21 14 PM" src="https://user-images.githubusercontent.com/128408107/228976656-fa1eb91a-f450-4075-bba0-d33e8d8bdf71.png"> <br />
 
 Description:
 
-Q10-
+**Query 10:** <br />
+**Description-**
 
 ## Query Matrix
 |                       | Q1 | Q2 | Q3 | Q4 | Q5 | Q6 | Q7 | Q8 | Q9 | Q10 |
