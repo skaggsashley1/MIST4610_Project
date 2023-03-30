@@ -9,7 +9,7 @@ Group 21482_ 6
 
 -Aaron Fritchley
 
-[Mason Layfield] (MasontLayfield/MIST4610-MySQL-Database-Project)
+(Mason Layfield) [MasontLayfield/MIST4610-MySQL-Database-Project]
 
 -Alexandra Shalikashvili
 
