@@ -122,35 +122,35 @@ Simran Simran
 
 <img width="583" alt="Screenshot 2023-03-30 at 5 10 00 PM" src="https://user-images.githubusercontent.com/128408107/228965484-aae3f957-4d7f-47ea-8ce6-8b95f187e494.png"> <br />
 
-
+**Justification:** A manager may want to know which airports are the most/least bust to ensure the airports are properly staffed with the correct amount of TSA employees, Receptionists, Flight Attendants, and Security to account for the number of passengers departing from that airport. An understaffed busy airport could be unsafe for guests and lead to a unpleasant flying experience. <br />
 
 **Query 2:** <br />
 **Description-** Write a query to list the number of passengers from each country (if at least one citizen was present) who flew from Hartsfield-Jackson to John F. Kennedy <br />
 
 <img width="659" alt="Screenshot 2023-03-30 at 5 14 02 PM" src="https://user-images.githubusercontent.com/128408107/228966024-2797ede2-7548-4afc-8c78-ab015dc60220.png"> <br />
 
-Description:
+**Justification:** A manager would want to know the number of passengers from each country who flew from Hartsfield-Jackson to John F. Kennedy to ensure the passengers are adhering to proper visa rules. This also gives insight on where people from other countries are traveling within the United States during their time here. <br />
 
 **Query 3:** <br />
 **Description-** list out the names of supervisors and the crew members they supervised on if the number they supervise is greater than 3 <br />
 
 <img width="710" alt="Screenshot 2023-03-30 at 5 15 29 PM" src="https://user-images.githubusercontent.com/128408107/228966243-015a39ba-4808-4340-83e4-8e1de739ccef.png"> <br />
 
-**Justification:** A manager may want to see how many crew members supervisors are in charge of to ensure one employee is not in charge of too many people (more than 3). Unless they are the 3 lead supervisors, in that case one of the three is assgined to all of the crew members. <br />
+**Justification:** A manager may want to see how many crew members supervisors are in charge of to ensure one employee is not in charge of too many people (more than 3). Unless they are the 3 lead supervisors, in that case one of the three is assgined to many crew members due to their experience/seniority. <br />
 
 **Query 4:** <br />
 **Description-** Display the passenger ID, first name, last name, and luggage weight for those passengers whose luggage weighs more than the average luggage weight <br />      
 
 <img width="573" alt="Screenshot 2023-03-30 at 6 08 51 PM" src="https://user-images.githubusercontent.com/128408107/228974924-28f26a38-23d6-4c17-951f-e975eefa33d1.png"> <br />
 
-**Justification:** A manager may want to know how many people per flight have above average luggage to enure the flight stays within its weight restrictions. <br />
+**Justification:**  A manager may want to know how many people per flight have above average luggage to enure the flight stays within its weight restrictions. This may lead to people being asked to switch flights or the flight being cancelled due to being overweight. This would also allow managers to see the full range of luggage weight and set restrictions for future passengers if flights being overweight becomes a constant issue.. <br />
 
 **Query 5:** <br />
 **Description-** Display the percentage of Chinese passengers on each trip <br />
 
 <img width="851" alt="Screenshot 2023-03-30 at 6 12 54 PM" src="https://user-images.githubusercontent.com/128408107/228975463-3c2747ce-3be6-44c9-8e0f-bd492362d406.png"> <br />
 
-**Justification:** A manager may want to find the percentage of chinese passengers on each flight, as it could be beneficial when it comes to visa issues or anything of that nature.
+**Justification:** A manager may want to find the percentage of chinese passengers on each flight, as it could be beneficial when it comes to visa issues or anything of that nature. A manager would be able to see what percent of people are from different countries on their flights, in this case China. This information could also help the Customs office gage what percent of people coming into the United States are Chinese and have their employees properly trained on policies for people traveling from that country. <br />
 
 **Query 6:** <br />
 **Description-** Find the names of all passengers who have at least one luggage item with weight greater than the average weight of all luggage items for their trips <br />
@@ -158,7 +158,7 @@ Description:
 <img width="563" alt="Screenshot 2023-03-30 at 6 16 02 PM" src="https://user-images.githubusercontent.com/128408107/228975980-e6dd24c8-9536-4107-8691-446343069567.png">
 <img width="183" alt="Screenshot 2023-03-30 at 6 14 56 PM" src="https://user-images.githubusercontent.com/128408107/228975845-bb203441-c359-4939-85ea-94d379b5773b.png"> <br />
 
-Description:
+**Justification:** A manager may want to find the names of all passengers who have at least one luggage item with weight greater than the average weight of all luggage items for their trips. This will allow manager to get a gage of how many bags will fit within the weight limit of an aircraft with the extra weight. <br />
 
 **Query 7:** <br />
 **Description-** Lists the aircraft ID and number of trips taken for each Boeing aircraft <br />
@@ -182,7 +182,9 @@ Description:
 **Justification:** When a customer reaches out about lost luggage, a manager may want to see if that passenger's luggage did not have a description and add one if the customer is able to provide a description. An airline would be able to more easily find lost luggage if there is a description attached to it.
 
 **Query 10:** <br />
-**Description-**
+**Description-** Write a query to list the seat number, name, and contact information of passengers who are not from the USA. <br />
+
+
 
 ## Query Matrix
 |                       | Q1 | Q2 | Q3 | Q4 | Q5 | Q6 | Q7 | Q8 | Q9 | Q10 |
