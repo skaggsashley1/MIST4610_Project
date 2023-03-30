@@ -13,7 +13,7 @@ Group 21482_ 6
 
 -Alexandra Shalikashvili
 
-Simran Simran
+[Simran Simran](https://github.com/simranhk/MIS)
 
 [Ashley Skaggs](https://github.com/skaggsashley1/MIST4610_Project)
 
