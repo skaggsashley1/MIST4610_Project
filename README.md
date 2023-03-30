@@ -7,7 +7,7 @@ A description of the problem that you are modeling describing it in sufficient d
 
 Group 21482_ 6
 
--Aaron Fritchley
+[Aaron Fritchley](https://github.com/aafritch/MIST-4610)
 
 [Mason Layfield](https://github.com/MasontLayfield/MIST4610-MySQL-Database-Project)
 
