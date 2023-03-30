@@ -117,7 +117,8 @@ Simran Simran
 
 ## Queries
 
-Q1 - Write a query to list airports from most busy to least busy and the total number of departing passengers in each. <br />
+**Query 1** 
+**Description-** Write a query to list airports from most busy to least busy and the total number of departing passengers in each. <br />
 
 <img width="583" alt="Screenshot 2023-03-30 at 5 10 00 PM" src="https://user-images.githubusercontent.com/128408107/228965484-aae3f957-4d7f-47ea-8ce6-8b95f187e494.png"> <br />
 
