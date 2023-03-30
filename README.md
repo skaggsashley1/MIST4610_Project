@@ -18,7 +18,7 @@ Group 21482_ 6
 -Ashley Skaggs
 
 ## Data Model
-![7ab846dadefd44b6b43f2a3b6b4a9f21](https://user-images.githubusercontent.com/128408107/228365560-0e42d841-0b02-4c29-a8db-56a5eaabb5d6.jpeg)
+![project data model  73](https://user-images.githubusercontent.com/128408107/228953445-a43ebdff-0630-4f7c-a080-b53fe4ba4204.jpg)
 **Explanation**
 
 ## Data Dictionary
