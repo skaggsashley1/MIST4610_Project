@@ -117,6 +117,10 @@ Simran Simran
 
 ## Queries
 
+Q1 - Write a query to list airports from most busy to least busy and the total number of departing passengers in each
+"https://user-images.githubusercontent.com/128408107/228965484-aae3f957-4d7f-47ea-8ce6-8b95f187e494.png">
+
+
 ## Query Matrix
 |                       | Q1 | Q2 | Q3 | Q4 | Q5 | Q6 | Q7 | Q8 | Q9 | Q10 |
 | --------------------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --- |
