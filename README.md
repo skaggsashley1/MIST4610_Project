@@ -118,5 +118,17 @@ Simran Simran
 ## Queries
 
 ## Query Matrix
-
+|                       | Q1 | Q2 | Q3 | Q4 | Q5 | Q6 | Q7 | Q8 | Q9 | Q10 |
+| --------------------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --- |
+| Multiple table join   | X  | X  |    |    |    | X  |    |    | X  |     |
+| subquery              |    |    |    | X  |    | X  |    | X  | X  |     |
+| Correlated subquery   |    |    |    |    |    | X  |    |    |    |     |
+| GROUP BY              | X  |    |    |    | X  |    |    |    |    |     |
+| GROUP BY with HAVING  |    |    | X  |    |    |    |    |    |    |     |
+| Multi condition WHERE |    | X  |    |    |    | X  |    |    |    |     |
+| Built-in function     |    | X  |    | X  | X  | X  |    | X  |    |     |
+| REGEXP                |    |    |    |    |    |    | X  |    |    |     |
+| ROUND                 |    |    |    |    | X  |    |    |    |    |     |
+| CONCAT                |    |    |    |    | X  |    |    |    |    |     |
+| NOT EXISTS            |    |    |    |    |    |    |    |    | X  |     |
 ## Database Information
