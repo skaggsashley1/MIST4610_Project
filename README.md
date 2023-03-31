@@ -1,7 +1,7 @@
 
 # Flight Tracker
 ## Problem Description
-A description of the problem that you are modeling describing it in sufficient detail that makes sense in the context of your data model.
+A Flight has many actors involved in getting a customer from one place to another, making it complex and difficult to track all of its moving parts. Many different types of managers need access to the same intertwined data to streamline a guest’s flying experience.  The managers from airlines need information about flight status and the number of people on a flight and crew managers need to know who they are supervising for a given flight. All of these managers have their own sets of data, but by connecting all entities they are able to have access to every detail of a trip including passenger information, seat information, passenger’s luggage, flight information including arriving and departing airport, what type of aircraft a passenger’s trip is using, the crew aboard that trip, and also the airline that a trip is affiliated with. This data model/database allows all entities to be connected to ensure a positive customer experience and streamlined operations between all airport personnel.
 
 ## Group Name and Members
 
