@@ -121,7 +121,7 @@ Group 21482_ 6
 **Query 1:** <br />
 **Description-** Write a query to list airports from most busy to least busy and the total number of departing passengers in each. <br />
 
-<img width="583" alt="Screenshot 2023-03-30 at 5 10 00 PM" src="https://user-images.githubusercontent.com/128408107/228965484-aae3f957-4d7f-47ea-8ce6-8b95f187e494.png"> <br />
+<img width="583" alt="Screenshot 2023-03-31 at 12 35 19 PM" src="https://user-images.githubusercontent.com/128408107/229178811-8165656c-037b-4324-b656-470f142495a0.png"> <br />
 
 **Justification:** A manager may want to know which airports are the most/least bust to ensure the airports are properly staffed with the correct amount of TSA employees, Receptionists, Flight Attendants, and Security to account for the number of passengers departing from that airport. An understaffed busy airport could be unsafe for guests and lead to a unpleasant flying experience. <br />
 
