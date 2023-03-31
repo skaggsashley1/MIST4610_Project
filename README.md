@@ -104,7 +104,7 @@ Group 21482_ 6
 | Column Name         | Description                                          | Data Type | Size | Format      | Key?              |
 | ------------------- | ---------------------------------------------------- | --------- | ---- | ----------- | ----------------- |
 | tripID              | Unique sequential number identifying the trip        | Text      | 45   |             | PK                |
-| tripDate            | The date of the trip                                 | Text      | 45   | YYYY-MM-DD? |                   |
+| tripDate            | The date of the trip                                 | Text      | 45   | MM/DD/YYYY |                   |
 | tripDepartTime      | The departure time for the trip                      | Text      | 45   |             |                   |
 | tripArriveTime      | The arrival time for the trip                        | Text      | 45   |             |                   |
 | Flight_flightID     | Indicates the flight that is carrying out the trip   | Text      | 45   |             | FK(ref. FLIGHT)   |
