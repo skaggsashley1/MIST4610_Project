@@ -11,7 +11,7 @@ Group 21482_ 6
 
 [Mason Layfield](https://github.com/MasontLayfield/MIST4610-MySQL-Database-Project)
 
--Alexandra Shalikashvili
+[Alexandra Shalikashvili](https://github.com/als94377/4610_project)
 
 [Simran Simran](https://github.com/simranhk/MIS)
 
@@ -133,28 +133,28 @@ Group 21482_ 6
 **Justification:** A manager would want to know the number of passengers from each country who flew from Hartsfield-Jackson to John F. Kennedy to ensure the passengers are adhering to proper visa rules. This also gives insight on where people from other countries are traveling within the United States during their time here. <br />
 
 **Query 3:** <br />
-**Description-** list out the names of supervisors and the crew members they supervised on if the number they supervise is greater than 3 <br />
+**Description-** Write a query to list out the names of supervisors and the crew members they supervised on if the number they supervise is greater than 3 <br />
 
 <img width="710" alt="Screenshot 2023-03-30 at 5 15 29 PM" src="https://user-images.githubusercontent.com/128408107/228966243-015a39ba-4808-4340-83e4-8e1de739ccef.png"> <br />
 
 **Justification:** A manager may want to see how many crew members supervisors are in charge of to ensure one employee is not in charge of too many people (more than 3). Unless they are the 3 lead supervisors, in that case one of the three is assgined to many crew members due to their experience/seniority. <br />
 
 **Query 4:** <br />
-**Description-** Display the passenger ID, first name, last name, and luggage weight for those passengers whose luggage weighs more than the average luggage weight <br />      
+**Description-** Write a query to display the passenger ID, first name, last name, and luggage weight for those passengers whose luggage weighs more than the average luggage weight <br />      
 
 <img width="573" alt="Screenshot 2023-03-30 at 6 08 51 PM" src="https://user-images.githubusercontent.com/128408107/228974924-28f26a38-23d6-4c17-951f-e975eefa33d1.png"> <br />
 
 **Justification:**  A manager may want to know how many people per flight have above average luggage to enure the flight stays within its weight restrictions. This may lead to people being asked to switch flights or the flight being cancelled due to being overweight. This would also allow managers to see the full range of luggage weight and set restrictions for future passengers if flights being overweight becomes a constant issue.. <br />
 
 **Query 5:** <br />
-**Description-** Display the percentage of Chinese passengers on each trip <br />
+**Description-** Write a query to display the percentage of Chinese passengers on each trip <br />
 
 <img width="851" alt="Screenshot 2023-03-30 at 6 12 54 PM" src="https://user-images.githubusercontent.com/128408107/228975463-3c2747ce-3be6-44c9-8e0f-bd492362d406.png"> <br />
 
 **Justification:** A manager may want to find the percentage of chinese passengers on each flight, as it could be beneficial when it comes to visa issues or anything of that nature. A manager would be able to see what percent of people are from different countries on their flights, in this case China. This information could also help the Customs office gage what percent of people coming into the United States are Chinese and have their employees properly trained on policies for people traveling from that country. <br />
 
 **Query 6:** <br />
-**Description-** Find the names of all passengers who have at least one luggage item with weight greater than the average weight of all luggage items for their trips <br />
+**Description-** Write a query to list the names of all passengers who have at least one luggage item with weight greater than the average weight of all luggage items for their trips <br />
 
 <img width="563" alt="Screenshot 2023-03-30 at 6 16 02 PM" src="https://user-images.githubusercontent.com/128408107/228975980-e6dd24c8-9536-4107-8691-446343069567.png">
 <img width="183" alt="Screenshot 2023-03-30 at 6 14 56 PM" src="https://user-images.githubusercontent.com/128408107/228975845-bb203441-c359-4939-85ea-94d379b5773b.png"> <br />
@@ -162,28 +162,28 @@ Group 21482_ 6
 **Justification:** A manager may want to find the names of all passengers who have at least one luggage item with weight greater than the average weight of all luggage items for their trips. This will allow manager to get a gage of how many bags will fit within the weight limit of an aircraft with the extra weight. <br />
 
 **Query 7:** <br />
-**Description-** Lists the aircraft ID and number of trips taken for each Boeing aircraft <br />
+**Description-** Write a query that lists the aircraft ID and number of trips taken for each Boeing aircraft <br />
 
 <img width="598" alt="Screenshot 2023-03-30 at 6 18 35 PM" src="https://user-images.githubusercontent.com/128408107/228976292-c674b59b-b910-4501-a674-736390aced29.png"> <br />
 
 **Justification**:  A manager may want to know how many flights an aircraft has taken to make sure it gets the right maintenance checks and is in good working condition. The average amount of flights an aircraft takes is about 35,000, so a manager would want to retire an aircraft once that number is passed. Past 35,000 flights the metal on a plane can decay, which is unsafe for both crew and passengers. <br />
 
 **Query 8:** <br />
-**Description-** Aircrafts that have a seating capcacity that is larger than the average seating capacity <br />
+**Description-** Write a query that lists aircrafts that have a seating capcacity that is larger than the average seating capacity <br />
 
 <img width="629" alt="Screenshot 2023-03-30 at 6 19 48 PM" src="https://user-images.githubusercontent.com/128408107/228976457-9d4d184b-bf57-40b6-9f05-546276660348.png"> <br />
 
 **Justification:** A manager may want to reserve the larger aircrafts for more popular flight routes, such as international flights. Using a larger aircraft on a short unpopular flight would not me cost/time effective. Knowing which flights have an above average seating capacity would also help a manager assign them to flights that are frequently overbooked to improve customer relations.
 
 **Query 9:** <br />
-**Description-** Write a query to lis customers names who’s luggage were not given a description. <br />
+**Description-** Write a query to list customers names who’s luggage were not given a description. <br />
 
 <img width="670" alt="Screenshot 2023-03-30 at 6 21 14 PM" src="https://user-images.githubusercontent.com/128408107/228976656-fa1eb91a-f450-4075-bba0-d33e8d8bdf71.png"> <br />
 
 **Justification:** When a customer reaches out about lost luggage, a manager may want to see if that passenger's luggage did not have a description and add one if the customer is able to provide a description. An airline would be able to more easily find lost luggage if there is a description attached to it.
 
 **Query 10:** <br />
-**Description-** The seat number, name, and contact information of passengers who are not from the USA who flew on July 1, 2022. <br />
+**Description-** Write a query that displays the seat number, name, and contact information of passengers who are not from the USA who flew on July 1, 2022. <br />
 
 <img width="553" alt="Screenshot 2023-03-31 at 7 35 48 AM" src="https://user-images.githubusercontent.com/128408107/229109965-68122c03-96b7-49d7-9319-566f967ad2f8.png"> <br />
 
