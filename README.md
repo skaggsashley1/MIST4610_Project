@@ -183,19 +183,22 @@ Group 21482_ 6
 **Justification:** When a customer reaches out about lost luggage, a manager may want to see if that passenger's luggage did not have a description and add one if the customer is able to provide a description. An airline would be able to more easily find lost luggage if there is a description attached to it.
 
 **Query 10:** <br />
-**Description-** Write a query to list the seat number, name, and contact information of passengers who are not from the USA. <br />
+**Description-** The seat number, name, and contact information of passengers who are not from the USA who flew on July 1, 2022. <br />
 
+<img width="553" alt="Screenshot 2023-03-31 at 7 35 48 AM" src="https://user-images.githubusercontent.com/128408107/229109965-68122c03-96b7-49d7-9319-566f967ad2f8.png"> <br />
+
+**Justification:** A manager may want to be able to locate which seat has a passenger that is not from the USA in order to make sure they are accommodated and taken care of just like every other passenger. Oftentimes in situations with elderly international travelers, airlines help those passengers navigate (especially in situations with a language barrier), and provide extra assistance to those passengers during their flight. This query shows passengers not from the USA who flew on 7/1/2022, but the query could be used for other dates upon manager request. <br />
 
 
 ## Query Matrix
 |                       | Q1 | Q2 | Q3 | Q4 | Q5 | Q6 | Q7 | Q8 | Q9 | Q10 |
 | --------------------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --- |
-| Multiple table join   | X  | X  |    |    |    | X  |    |    | X  |     |
+| Multiple table join   | X  | X  |    |    |    | X  |    |    | X  | X   |
 | subquery              |    |    |    | X  |    | X  |    | X  | X  |     |
 | Correlated subquery   |    |    |    |    |    | X  |    |    |    |     |
 | GROUP BY              | X  |    |    |    | X  |    |    |    |    |     |
 | GROUP BY with HAVING  |    |    | X  |    |    |    |    |    |    |     |
-| Multi condition WHERE |    | X  |    |    |    | X  |    |    |    |     |
+| Multi condition WHERE |    | X  |    |    |    | X  |    |    |    | X   |
 | Built-in function     |    | X  |    | X  | X  | X  |    | X  |    |     |
 | REGEXP                |    |    |    |    |    |    | X  |    |    |     |
 | ROUND                 |    |    |    |    | X  |    |    |    |    |     |
